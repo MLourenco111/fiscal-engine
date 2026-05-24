@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: fiscal-engine
+
+server:
+  port: 8089
